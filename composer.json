@@ -1,0 +1,14 @@
+{
+    "name": "abolfazl/minifier",
+    "description": "This package minifies the html files, which was sent from the server to users.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abolfazl Mohajeri",
+            "email": "ab.mohajeri@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
